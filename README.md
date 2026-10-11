@@ -38,11 +38,11 @@ The decision: which genres, budget tiers, film lengths and directors the executi
 
 | File | Description |
 |---|---|
-| `"C:\Users\NEW USER\Downloads\Data Analytics Class\Project\Project answer\excel_dataset.xlsx"` | Cleaned data, one pivot table and chart per question, summary sheet, Excel dashboard |
-| `"C:\Users\NEW USER\Downloads\Data Analytics Class\Project\Project answer\sql_project.sql"` | One commented query per insight question |
-| `"C:\Users\NEW USER\Downloads\Data Analytics Class\Project\Project answer\powerbi_project.pbix"` | Power BI dashboard (open in Power BI Desktop) |
-| `"C:\Users\NEW USER\Downloads\Data Analytics Class\Project\Project answer\Recommendation Memo.docx"` | One-page recommendation memo for the CEO |
-| `"C:\Users\NEW USER\Downloads\Data Analytics Class\Project\Project answer\Project Presentation- Boluwatife Bankole.pptx"` | 10-minute walkthrough of the project |
+| `excel_dataset.xlsx` | Cleaned data, one pivot table and chart per question, summary sheet, Excel dashboard |
+| `sql_project.sql` | One commented query per insight question |
+| `powerbi_project.pbix` | Power BI dashboard (open in Power BI Desktop) |
+| `Recommendation Memo.docx` | One-page recommendation memo for the CEO |
+| `Project Presentation- Boluwatife Bankole.pptx` | 10-minute walkthrough of the project |
 
 ## Dashboard preview
 
